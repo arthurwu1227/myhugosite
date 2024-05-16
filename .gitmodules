@@ -1,0 +1,3 @@
+[submodule "arthurwu1227/themes/zen"]
+	path = arthurwu1227/themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
